@@ -1,0 +1,56 @@
+I:\Diversión propia\Console Invaders\bin\Debug\net9.0\Console Invaders.exe
+I:\Diversión propia\Console Invaders\bin\Debug\net9.0\Console Invaders.deps.json
+I:\Diversión propia\Console Invaders\bin\Debug\net9.0\Console Invaders.runtimeconfig.json
+I:\Diversión propia\Console Invaders\bin\Debug\net9.0\Console Invaders.dll
+I:\Diversión propia\Console Invaders\bin\Debug\net9.0\Console Invaders.pdb
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\Console Invaders.GeneratedMSBuildEditorConfig.editorconfig
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfoInputs.cache
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfo.cs
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\Console Invaders.csproj.CoreCompileInputs.cache
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\Console Invaders.dll
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\refint\Console Invaders.dll
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\Console Invaders.pdb
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\Console Invaders.genruntimeconfig.cache
+I:\Diversión propia\Console Invaders\obj\Debug\net9.0\ref\Console Invaders.dll
+H:\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.exe
+H:\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.deps.json
+H:\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.runtimeconfig.json
+H:\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.dll
+H:\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.pdb
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.GeneratedMSBuildEditorConfig.editorconfig
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfoInputs.cache
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfo.cs
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.csproj.CoreCompileInputs.cache
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.dll
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\refint\Console Invaders.dll
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.pdb
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.genruntimeconfig.cache
+H:\Código porpio\Console Invaders\obj\Debug\net9.0\ref\Console Invaders.dll
+D:\DAM 2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.exe
+D:\DAM 2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.deps.json
+D:\DAM 2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.runtimeconfig.json
+D:\DAM 2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.dll
+D:\DAM 2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.pdb
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfoInputs.cache
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfo.cs
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.csproj.CoreCompileInputs.cache
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.dll
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\refint\Console Invaders.dll
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.pdb
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.genruntimeconfig.cache
+D:\DAM 2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\ref\Console Invaders.dll
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfoInputs.cache
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.AssemblyInfo.cs
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.csproj.CoreCompileInputs.cache
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.dll
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\refint\Console Invaders.dll
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.pdb
+D:\DAM_2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.exe
+D:\DAM_2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.deps.json
+D:\DAM_2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.runtimeconfig.json
+D:\DAM_2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.dll
+D:\DAM_2025-2027\Código porpio\Console Invaders\bin\Debug\net9.0\Console Invaders.pdb
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\Console Invaders.genruntimeconfig.cache
+D:\DAM_2025-2027\Código porpio\Console Invaders\obj\Debug\net9.0\ref\Console Invaders.dll
